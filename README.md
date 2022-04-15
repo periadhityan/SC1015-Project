@@ -23,4 +23,10 @@ About 70% of the time its able to predict if an aicraft is beyond repair while a
 * Collaborating using GitHub
 
 ## References
-* 
+* https://www.analyticsvidhya.com/blog/2021/01/a-guide-to-the-naive-bayes-algorithm/
+* https://www.projectpro.io/article/multi-class-classification-python-example/547
+* https://realpython.com/logistic-regression-python/
+* https://towardsdatascience.com/how-is-logistic-regression-used-as-a-classification-algorithm-51eaf0d01a78
+* https://learn.g2.com/logistic-regression
+* https://www.kaggle.com/deepcontractor/aircraft-accidents-failures-hijacks-dataset
+* https://en.wikipedia.org/wiki/Naive_Bayes_classifier
