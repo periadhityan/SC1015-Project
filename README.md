@@ -30,3 +30,4 @@ About 70% of the time its able to predict if an aicraft is beyond repair while a
 * https://learn.g2.com/logistic-regression
 * https://www.kaggle.com/deepcontractor/aircraft-accidents-failures-hijacks-dataset
 * https://en.wikipedia.org/wiki/Naive_Bayes_classifier
+* https://kambria.io/blog/logistic-regression-for-machine-learning/#:~:text=Logistic%20regression%20is%20a%20classification,either%20a%200%20or%201.
