@@ -4,7 +4,7 @@
 This is a mini-project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on prediction of aircraft repairability after an incident based on [Aircraft Accidents, Failures & Hijacks Dataset](https://www.kaggle.com/datasets/deepcontractor/aircraft-accidents-failures-hijacks-dataset)
 
 ## Contributors
-1) Peri
+1) Peri Adhityan Sivalingam
 2) Tham Holdon
 3) Theodore Tan
 
